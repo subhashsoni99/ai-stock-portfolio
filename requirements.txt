@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+jupyterlab
+scikit-learn
+yfinance
+streamlit
+tensorflow
+backtrader
+ta
+EOF
