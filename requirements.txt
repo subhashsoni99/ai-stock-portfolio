@@ -1,11 +1,10 @@
 pandas
 numpy
 matplotlib
-jupyterlab
 scikit-learn
 yfinance
+jupyterlab
 streamlit
-tensorflow
-backtrader
 ta
-EOF
+backtrader
+tensorflow
