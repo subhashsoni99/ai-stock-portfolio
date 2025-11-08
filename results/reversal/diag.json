@@ -1,0 +1,14 @@
+{
+  "market_return_pct": 8.145045247818494,
+  "strategy_return_pct": -8.958798680186375,
+  "num_trades": 41,
+  "selected_threshold": 0.3,
+  "pred_counts": {
+    "1": 476
+  },
+  "reversal_counts": {
+    "0": 340,
+    "1": 136
+  },
+  "lstm_test_accuracy": 0.4810924232006073
+}
